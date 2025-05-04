@@ -1,2 +1,6 @@
 # autoreg-telegram-channel
-Инструмент на Python для автоматической регистрации каналов в Telegram. Проект использует библиотеку Pyrogram для взаимодействия с API Telegram, позволяя пользователям быстро создавать несколько каналов. В комплект входит простой графический интерфейс, построенный на PyQt6 для удобного взаимодействия.
+EN:
+A Python tool for automating the creation of Telegram channels using Pyrogram. Create multiple channels with ease through a simple PyQt6 GUI, making channel creation quick and efficient.
+
+RU:
+Инструмент на Python для автоматического создания каналов Telegram с использованием Pyrogram. Создавайте несколько каналов с помощью простого графического интерфейса PyQt6, ускоряя процесс создания каналов.
